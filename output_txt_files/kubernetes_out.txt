@@ -1,3 +1,8 @@
+NAME             READY   STATUS    RESTARTS   AGE
+devops-k8s-aws   1/1     Running   0          52s
+Forwarding from 127.0.0.1:8080 -> 80
+Forwarding from [::1]:8080 -> 80
+
 Port: 8080
 {
   "prediction": [
